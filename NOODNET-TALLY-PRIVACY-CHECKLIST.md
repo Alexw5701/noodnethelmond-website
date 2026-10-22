@@ -28,7 +28,7 @@ Dit document hoort bij de conceptprivacyverklaring. Het is geen vervanging voor 
 - [ ] Vraag **afzonderlijke toestemming** voor eventuele nieuwsbrieven buiten de gekozen NoodNet-deelname, en maak kandidaat-Buurtpuntadressen nooit automatisch openbaar.
 
 ### Voorgestelde Tally checkbox
-> Ik geef NoodNet Helmond toestemming om mijn ingevulde persoonsgegevens te gebruiken om mijn gekozen aanmelding te behandelen en, als ik ga deelnemen, mijn deelname en contact hierover te organiseren. Ik heb de privacyverklaring gelezen en weet dat ik mijn toestemming op ieder moment kan intrekken.
+> Ik geef NoodNet Helmond toestemming om mijn ingevulde persoonsgegevens te gebruiken om mijn gekozen aanmelding te behandelen en, als ik ga deelnemen, mijn deelname en contact hierover te organiseren. Ik kan de privacyverklaring inzien en weet dat ik mijn toestemming op ieder moment kan intrekken.
 
 De privacyverklaring moet als werkende, goed zichtbare link direct vóór dit vakje staan. **Publiceer niet met een conceptlink.**
 
