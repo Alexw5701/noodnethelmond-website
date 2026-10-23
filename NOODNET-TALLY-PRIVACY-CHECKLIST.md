@@ -11,7 +11,7 @@ Dit document hoort bij de conceptprivacyverklaring. Het is geen vervanging voor 
 
 ## Moet vóór echte inzendingen worden geregeld
 - [x] **AVG-grondslag gekozen:** toestemming als bedoeld in artikel 6, eerste lid, onder a, AVG (voor de beschreven aanmeldings- en deelnameverwerkingen). De formuliertekst en bewijsvoering moeten nog worden ingericht. Zie AP: https://autoriteitpersoonsgegevens.nl/themas/basis-avg/avg-algemeen/grondslag-toestemming
-- [ ] **Tally DPA voor particulier:** de voorwaarden van Tally verwijzen naar een verwerkersovereenkomst bij professionele gebruikers en 'company'; vraag schriftelijk aan Tally of deze DPA van toepassing is op een op persoonlijke naam beheerd non-profit burgerinitiatief, of vraag om een passende individuele verwerkersovereenkomst. https://tally.so/help/gdpr
+- [x] **Tally DPA voor particulier:** Tally heeft per e-mail aan de initiatiefnemer bevestigd dat de verwerkersovereenkomst automatisch geldt voor alle Tally-accounthouders, ook particulieren die als verwerkingsverantwoordelijke optreden. Geen aparte ondertekening nodig. Bewaar de oorspronkelijke e-mail als bewijs bij de administratieve stukken; geen e-mailinhoud met persoonsgegevens in de publieke repository opslaan. Zie https://tally.so/help/gdpr
 - [ ] **Accountbeveiliging:** activeer tweestapsverificatie in Tally > Settings > Set up 2FA, bewaar herstelcodes veilig, controleer wie toegang heeft. https://tally.so/help/account-settings
 - [ ] **Bewaartermijnen uitvoeren:** wijs een vaste beheerder aan voor maandelijkse controle en verwijdering, controleer de Tally-prullenbak. Automatische bewaartermijnen zijn Tally Business; verwijderde inzendingen blijven maximaal 90 dagen in Trash tenzij eerder geleegd. https://tally.so/help/submissions-data-retention en https://tally.so/help/how-to-delete-and-recover-form-data
 - [ ] **Integraties controleren:** controleer notificaties en alle koppelingen; voeg Google Sheets/AppSheet pas toe wanneer toegang, doel, opslag en verwijdering zijn vastgesteld. Verwijderen van een Tally-integratie verwijdert niet automatisch de gekopieerde Google Sheet. https://tally.so/help/google-sheets-integration
@@ -32,7 +32,5 @@ Dit document hoort bij de conceptprivacyverklaring. Het is geen vervanging voor 
 
 De privacyverklaring moet als werkende, goed zichtbare link direct vóór dit vakje staan. **Publiceer niet met een conceptlink.**
 
-## Voorgestelde vraag aan Tally
-Subject: DPA coverage for Dutch private citizen initiative
-
-Hello Tally team, I use Tally to collect volunteer and potential neighborhood-contact-point registrations for NoodNet Helmond, a Dutch private not-for-profit citizen initiative managed by me personally, without a registered company or association. Your published DPA and professional-user terms refer to a company. Can you confirm in writing whether your DPA applies to an individual acting as a GDPR data controller for this initiative, or provide the appropriate processor agreement? Thank you.
+## Schriftelijke bevestiging Tally — ontvangen
+Tally Support bevestigt rechtstreeks aan de particuliere initiatiefnemer dat de Data Processing Agreement automatisch geldt voor alle accounthouders, ongeacht of het een bedrijf, organisatie of individuele verwerkingsverantwoordelijke betreft. Volgens Tally is afzonderlijke ondertekening niet nodig. Bewaar het originele antwoord privé als bewijs; deze checklist bevat alleen de zakelijke samenvatting.
