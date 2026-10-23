@@ -10,26 +10,10 @@ Dit is een inrichtingsdocument op een **niet-gepubliceerde conceptbranch**. Vera
 4. Controleer alle routes in Preview: vrijwilliger, mogelijk Buurtpunt, beide, meer informatie. Alleen het Buurtpunt-pad mag om straat, huisnummer en postcode vragen.
 5. Publiceer nog niet.
 
-### Tally verwerkersovereenkomst: bericht om te verzenden
-Aan: hello@tally.so
-Onderwerp: DPA for an individual GDPR controller — NoodNet Helmond
+### Tally-verwerkersovereenkomst: schriftelijk bevestigd
+Tally Support heeft bevestigd dat de Data Processing Agreement automatisch geldt voor particuliere accounthouders die optreden als verwerkingsverantwoordelijke voor een burgerinitiatief. Afzonderlijk ondertekenen is volgens Tally niet nodig. Dit punt is afgerond.
 
-Hello Tally Support,
-
-I am using Tally to prepare a volunteer and potential neighborhood-contact-point registration form for NoodNet Helmond, a Dutch not-for-profit citizen initiative run by me personally, not by a registered company, association or foundation.
-
-I am the individual GDPR data controller. I noticed that Tally's published DPA and GDPR guidance refer to professional users acting on behalf of their company.
-
-Could you please confirm in writing that Tally's Data Processing Agreement applies to my use as an individual data controller, or provide an appropriate DPA for this situation? I will not start collecting live registrations until this has been clarified.
-
-Kind regards,
-Alex van de Westerlo
-NoodNet Helmond
-Noodnet@vandewesterlo.com
-
-Bronnen:
-- https://tally.so/help/gdpr
-- https://tally.so/help/data-processing-agreement
+Bewaar de originele bevestigingsmail veilig buiten de openbare GitHub-repository, bijvoorbeeld bij je NoodNet-administratie. Dit verandert niets aan de plicht om goede beveiliging, toegangscontrole, intrekkingsverzoeken en verwijdering van gegevens te organiseren.
 
 ### Een duidelijke intrekkingsroute
 Voor publicatie een eenvoudig online intrekkingsformulier op Tally instellen, of ten minste een direct zichtbare en gemakkelijk te gebruiken intrekkingsroute aanbieden die aantoonbaar even eenvoudig is als toestemming geven.
