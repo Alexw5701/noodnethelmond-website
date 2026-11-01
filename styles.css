@@ -5,3 +5,40 @@
 @media(max-width:720px){.container{width:calc(100% - 34px)}.hero-layout,.quick-grid,.grid-3,.grid-2,.split,.content-grid,.footer-grid{grid-template-columns:1fr}.hero-layout{padding:58px 0}.hero-device{padding:18px}.section{padding:64px 0}.section.compact{padding:50px 0}.page-hero{padding:49px 0 56px}.content-grid .aside{position:static}.quick-card{border-right:0;border-bottom:1px solid var(--line);padding:16px 0}.cta-band{display:block;padding:30px 24px}.cta-band .btn{margin-top:22px}.footer-grid{gap:27px}.site-footer{padding-top:48px}}
 @media(max-width:420px){.hero h1{font-size:2.45rem}.actions .btn{width:100%}.device-node{min-height:115px;padding:9px 3px}.device-node span:last-child{display:none}.device-node strong{font-size:.7rem}.device-node .node-icon{padding:6px}.brand-mark{width:42px;height:42px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+
+/* Huisstijl NoodNet Helmond – zwart, rood en wit; bestaande inhoud intact */
+:root{--navy:#0b0d12;--teal:#b91623;--yellow:#ed1c24;--ink:#20242b;--muted:#59606a;--line:#e1e2e5;--pale:#f6f6f7;--cream:#fff5f5}
+body{background:#fff}
+.utility-banner{background:#090a0d;color:#fff}
+.pulse,.mini-dot{background:#ed1c24}
+.site-header{background:#fff}
+.header-inner{min-height:100px}
+.brand{display:block;flex:none;width:166px;height:102px;background:url("logo-noodnet.svg") center/contain no-repeat}
+.brand .brand-mark,.brand .brand-name{display:none}
+.nav a:hover,.nav a[aria-current=page]{color:#c31420}
+.nav .nav-action,.btn-yellow{background:#ed1c24;color:#fff}
+.nav .nav-action:hover,.btn-yellow:hover{background:#bd111b;color:#fff}
+.hero,.page-hero{background:linear-gradient(115deg,#090b10 0%,#171b23 70%,#290d13 100%)}
+.hero h1 em,.hero .eyebrow,.page-hero .eyebrow{color:#ff4c52}
+.hero p,.page-hero p{color:#ebebee}
+.hero-device{border-color:#ffffff33;background:#ffffff0d}
+.device-node{color:#15171d}
+.node-icon,.circle-icon,.card-icon{background:#fce7e9;color:#b91623}
+.device-connector{background:#ed1c24}
+.device-bottom{background:#12151c;border-color:#ffffff30}
+.btn-ghost{border-color:#ddd}
+.btn-line{border-color:#c5bfc2}
+.micro{color:#e5d9dc}
+.step-num{color:#fff}
+.pill,.card-tag,.card-tag.amber{background:#fbe6e8;color:#a9121e}
+.text-link,.reference-list a{color:#ad101d}
+.panel-dark,.cta-band{background:linear-gradient(110deg,#101217,#241017)}
+.radio-screen{background:#fee7e7;color:#45141a}
+.notice,.alert{background:#fff2f3;border-left-color:#ed1c24}
+.news-top{background:#181a20;color:#fff}
+.placeholder-map{background:linear-gradient(130deg,#f8e8ea,#f8f8f8);border-color:#e6c8cc}
+.site-footer{background:#090b10;color:#dadade}
+.site-footer .brand{width:183px;height:112px}
+.footer-bottom{border-color:#3a3c43}
+@media(max-width:990px){.nav{background:#fff}}
+@media(max-width:420px){.brand{width:136px;height:84px}.header-inner{min-height:88px}}
